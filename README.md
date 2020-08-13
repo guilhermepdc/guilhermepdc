@@ -15,6 +15,7 @@ Brazilian, Based in Porto Alegre, RS 🌎
 ### Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [PRIMEIRO EMPREGO ESTÁGIO OU PROGRAMADOR JUNIOR](https://www.youtube.com/watch?v=IhZf229j5UM)
 - [EXISTE HORA CERTA PARA VIRAR UM PROGRAMADOR?](https://www.youtube.com/watch?v=oBfFzeBN-6E)
 - [CANAIS TOP 5 QUE FALAM DE PROGRAMAÇÃO E QUE VALEM A PENA VOCÊ CONFERIR](https://www.youtube.com/watch?v=fpKSGZbTHJY)
 - [O QUE ME MOTIVOU A MUDAR DE PROFISSÃO](https://www.youtube.com/watch?v=ZCwmEXctpAE)
