@@ -15,9 +15,9 @@ Brazilian, Based in Porto Alegre, RS 🌎
 ### Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [ENTENDA O QUE É DESENVOLVEDOR FULLSTACK](https://www.youtube.com/watch?v=5YZ8tbsUh3M)
 - [PRIMEIRO EMPREGO ESTÁGIO OU PROGRAMADOR JUNIOR](https://www.youtube.com/watch?v=IhZf229j5UM)
 - [EXISTE HORA CERTA PARA VIRAR UM PROGRAMADOR?](https://www.youtube.com/watch?v=oBfFzeBN-6E)
 - [CANAIS TOP 5 QUE FALAM DE PROGRAMAÇÃO E QUE VALEM A PENA VOCÊ CONFERIR](https://www.youtube.com/watch?v=fpKSGZbTHJY)
 - [O QUE ME MOTIVOU A MUDAR DE PROFISSÃO](https://www.youtube.com/watch?v=ZCwmEXctpAE)
-- [MUDEI DE CARREIRA DEPOIS DOS 30 E VIREI PROGRAMADOR. E AGORA?](https://www.youtube.com/watch?v=o__uHANsYNg)
 <!-- YOUTUBE:END -->
