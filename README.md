@@ -15,9 +15,9 @@ Brazilian, Based in Porto Alegre, RS 🌎
 ### Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [PORQUE UM DESENVOLVEDOR DE SOFTWARE PRECISA APRENDER INGLÊS](https://www.youtube.com/watch?v=uofHtUMdCo0)
 - [COMO SE TORNAR UM DESENVOLVEDOR DE SOFTWARE](https://www.youtube.com/watch?v=jvIrkTdi5lo)
 - [O QUE FAZ UM ARQUITETO DE SOFTWARE](https://www.youtube.com/watch?v=sX1oKrSpf4A)
 - [ENTENDA O QUE É DESENVOLVEDOR FULLSTACK](https://www.youtube.com/watch?v=5YZ8tbsUh3M)
 - [PRIMEIRO EMPREGO ESTÁGIO OU PROGRAMADOR JUNIOR](https://www.youtube.com/watch?v=IhZf229j5UM)
-- [EXISTE HORA CERTA PARA VIRAR UM PROGRAMADOR?](https://www.youtube.com/watch?v=oBfFzeBN-6E)
 <!-- YOUTUBE:END -->
