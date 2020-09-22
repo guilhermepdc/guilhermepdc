@@ -15,7 +15,7 @@ Brazilian, Based in Porto Alegre, RS 🌎
 ### Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
-- [FACULDADE EM TI VALE A PENA?](https://www.youtube.com/watch?v=rXhK01RHUCs)
+- [FACULDADE EM TECNOLOGIA VALE A PENA?](https://www.youtube.com/watch?v=rXhK01RHUCs)
 - [PORQUE UM DESENVOLVEDOR DE SOFTWARE PRECISA APRENDER INGLÊS](https://www.youtube.com/watch?v=uofHtUMdCo0)
 - [COMO SE TORNAR UM DESENVOLVEDOR DE SOFTWARE](https://www.youtube.com/watch?v=jvIrkTdi5lo)
 - [O QUE FAZ UM ARQUITETO DE SOFTWARE](https://www.youtube.com/watch?v=sX1oKrSpf4A)
