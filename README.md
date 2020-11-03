@@ -6,8 +6,6 @@ Brazilian, Based in Porto Alegre, RS 🌎
 ### You can find me on
 
 📺 [Youtube](https://www.youtube.com/channel/UCFKcExSRBeEFMBxSJHzGwFw) <br>
-📷 [Instagram](https://instagram.com/carreiradev_) <br>
-🐦 [Twitter](https://twitter.com/carreiradev_) <br>
 💻 [Linkedin](https://www.linkedin.com/in/carreiradev/) <br>
 ⚛️ [Rocketseat](https://app.rocketseat.com.br/me/guilhermecarvalho) <br>
 
