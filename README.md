@@ -1,4 +1,4 @@
-### Hi, I'm Guilherme Carvalho
+### Hello, I'm Guilherme Carvalho
 
 Software Engineer Studant and Creator Content at YouTube | [Carreira Dev](https://www.youtube.com/c/CarreiraDev/) <br>
 Brazilian, Based in Porto Alegre, RS 🌎
