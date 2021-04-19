@@ -14,4 +14,9 @@ Brazilian, Based in Porto Alegre, RS 🌎
 ### Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [Vlog 02 | O QUE EU PERDI COM A PANDEMIA](https://www.youtube.com/watch?v=68au21gbx8U)
+- [COMO SER MAIS PRODUTIVO NO TRABALHO REMOTO](https://www.youtube.com/watch?v=mbhHfQfPG3A)
+- [COMO DEFINIR PRIORIDADES EM SEUS PROJETOS](https://www.youtube.com/watch?v=ssnA-mpanLU)
+- [MEUS PRIMEIROS 6 MESES DE ESTÁGIO EM UMA MULTINACIONAL](https://www.youtube.com/watch?v=4a_71mRtrA0)
+- [COMO CONSEGUI UM ESTÁGIO EM UMA MULTINACIONAL](https://www.youtube.com/watch?v=RaeOP5ReG6Q)
 <!-- YOUTUBE:END -->
