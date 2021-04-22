@@ -1,6 +1,6 @@
 ### Hello, I'm Guilherme Carvalho
 
-Software Engineer Studant and Creator Content at YouTube | [Carreira Dev](https://www.youtube.com/c/CarreiraDev/) <br>
+Software Engineer Student and Creator Content at YouTube | [Carreira Dev](https://www.youtube.com/c/CarreiraDev/) <br>
 Brazilian, Based in Porto Alegre, RS 🌎
 
 ### You can find me on
