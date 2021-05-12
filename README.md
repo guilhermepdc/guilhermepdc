@@ -14,7 +14,7 @@ Brazilian, Based in Porto Alegre, RS 🌎
 ### Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
-- [Chill LoFi beats para estudar/codar](https://www.youtube.com/watch?v=v3V9kCgwWlc)
+- [BR Chill LoFi Beats para relaxar/estudar](https://www.youtube.com/watch?v=v3V9kCgwWlc)
 - [1971 A ORIGEM DO PRIMEIRO VÍRUS DE COMPUTADOR](https://www.youtube.com/watch?v=2d0NtYBi6-g)
 - [3 HÁBITOS DE ENGENHEIROS DE SOFTWARE DE SUCESSO](https://www.youtube.com/watch?v=4pd9K3b2Y9U)
 - [RESPONDENDO À PERGUNTA DE ENTREVISTA  “Me fale sobre você”](https://www.youtube.com/watch?v=7R7PyhQ0Db8)
