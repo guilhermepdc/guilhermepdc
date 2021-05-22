@@ -14,9 +14,9 @@ Brazilian, Based in Porto Alegre, RS 🌎
 ### Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
+- [6 BOLSAS INTEGRAIS PARA O CURSO DE GRADUAÇÃO (Leia a descrição do vídeo)](https://www.youtube.com/watch?v=9FC3xxBCsJA)
 - [O QUE FAZ UM PROFISSIONAL DE CYBERSECURITY / CIBERSEGURANÇA](https://www.youtube.com/watch?v=7JRZqm2aw28)
 - [1971 A ORIGEM DO PRIMEIRO VÍRUS DE COMPUTADOR](https://www.youtube.com/watch?v=2d0NtYBi6-g)
 - [3 HÁBITOS DE ENGENHEIROS DE SOFTWARE DE SUCESSO](https://www.youtube.com/watch?v=4pd9K3b2Y9U)
 - [RESPONDENDO À PERGUNTA DE ENTREVISTA  “Me fale sobre você”](https://www.youtube.com/watch?v=7R7PyhQ0Db8)
-- [Vlog 02 | O QUE EU PERDI COM A PANDEMIA](https://www.youtube.com/watch?v=68au21gbx8U)
 <!-- YOUTUBE:END -->
