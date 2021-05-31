@@ -14,7 +14,7 @@ Brazilian, Based in Porto Alegre, RS 🌎
 ### Latest Videos on YouTube
 
 <!-- YOUTUBE:START -->
-- [Como NÃO criar LIVE STREAMING LoFI de GRAÇA](https://www.youtube.com/watch?v=PGAL0AtYBC8)
+- [Como NÃO criar LIVE STREAMING LoFi de GRAÇA](https://www.youtube.com/watch?v=PGAL0AtYBC8)
 - [LoFi to relax/study/code](https://www.youtube.com/watch?v=KR8QD1lpJUU)
 - [6 BOLSAS INTEGRAIS PARA O CURSO DE GRADUAÇÃO (Leia a descrição do vídeo)](https://www.youtube.com/watch?v=z-FnBJrHxBc)
 - [O QUE FAZ UM PROFISSIONAL DE CYBERSECURITY / CIBERSEGURANÇA](https://www.youtube.com/watch?v=7JRZqm2aw28)
